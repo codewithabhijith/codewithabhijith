@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,50:006EFF,100:7B2FFF&height=280&section=header&text=ABHIJITH%20V%20S&fontSize=60&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&stroke=00F0FF&strokeWidth=1&desc=SOFTWARE%20ENGINEER%20%2F%2F%20MOBILE%20%2F%2F%20BACKEND&descSize=16&descAlignY=62&descColor=9FD8FF" width="100%" alt="Futuristic neon banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=760&height=60&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+LOADING+FLUTTER+%2B+DART+%2B+JAVA...;%3E+ENGINEERING+DIGITAL+EXPERIENCES;%3E+DESIGN.+DEVELOP.+DEPLOY.;%3E+SYSTEM+STATUS%3A+ALWAYS+LEARNING" alt="Animated terminal introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=00F0FF&background=050816&center=true&vCenter=true&width=760&height=60&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+LOADING+FLUTTER+%2B+DART+%2B+JAVA...;%3E+ENGINEERING+DIGITAL+EXPERIENCES;%3E+DESIGN.+DEVELOP.+DEPLOY.;%3E+SYSTEM+STATUS%3A+ALWAYS+LEARNING" alt="Animated terminal introduction" />
 
 <br/>
 
@@ -208,7 +208,7 @@ _Live profile statistics · Retrieved by external services_
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=codewithabhijith&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub achievements and trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=codewithabhijith&theme=radical&no-frame=true&margin-w=8&column=4" width="100%" alt="GitHub achievements and trophies" />
 
 </div>
 
@@ -232,7 +232,7 @@ _Live profile statistics · Retrieved by external services_
 
 ## `07` // ESTABLISH CONNECTION
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=600&height=35&lines=OPEN+TO+LEARNING+AND+COLLABORATION;LET'S+BUILD+SOMETHING+MEANINGFUL" alt="Animated collaboration message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=900&color=00F0FF&background=050816&center=true&vCenter=true&width=600&height=35&lines=OPEN+TO+LEARNING+AND+COLLABORATION;LET'S+BUILD+SOMETHING+MEANINGFUL" alt="Animated collaboration message" />
 
 <br/>
 
