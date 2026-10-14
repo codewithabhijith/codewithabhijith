@@ -130,7 +130,7 @@ Designed and built a responsive website and mobile application to showcase the B
 
 <p>
   <!-- Replace YOUR_BEOZ_REPOSITORY with the actual public repository name. -->
-  <a href="https://github.com/codewithbhijith/YOUR_BEOZ_REPOSITORY">
+  <a href="https://github.com/codewithabhijith/YOUR_BEOZ_REPOSITORY">
     <img src="https://img.shields.io/badge/Source%20Code-View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Beoz Electronics source code placeholder" />
   </a>
 </p>
@@ -167,9 +167,9 @@ A personal website showcasing my work, developer profile, and professional prese
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithbhijith&show_icons=true&hide_border=true&bg_color=050816&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" alt="GitHub profile statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithabhijith&show_icons=true&hide_border=true&bg_color=050816&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" alt="GitHub profile statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbhijith&layout=compact&hide_border=true&bg_color=050816&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhijith&layout=compact&hide_border=true&bg_color=050816&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
 
 </div>
 
@@ -179,7 +179,7 @@ A personal website showcasing my work, developer profile, and professional prese
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=codewithbhijith&hide_border=true&background=050816&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="90%" alt="GitHub contribution streak tracker" />
+<img src="https://streak-stats.demolab.com?user=codewithabhijith&hide_border=true&background=050816&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="90%" alt="GitHub contribution streak tracker" />
 
 </div>
 
@@ -189,7 +189,7 @@ A personal website showcasing my work, developer profile, and professional prese
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=codewithbhijith&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub trophy and achievement cards" />
+<img src="https://github-profile-trophy.vercel.app/?username=codewithabhijith&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub trophy and achievement cards" />
 
 </div>
 
@@ -199,7 +199,7 @@ A personal website showcasing my work, developer profile, and professional prese
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithbhijith&bg_color=050816&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithabhijith&bg_color=050816&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -212,7 +212,7 @@ A personal website showcasing my work, developer profile, and professional prese
 <a href="https://www.linkedin.com/in/abhijithsvijayan/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-<a href="https://github.com/codewithbhijith">
+<a href="https://github.com/codewithabhijith">
   <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" />
 </a>
 <a href="https://abhijith-portfolio-1.vercel.app/">
