@@ -38,6 +38,7 @@
 ║   role      →  Software Engineer                         ║
 ║   company   →  Dutch Cycling Project Pvt. Ltd.           ║
 ║   focus     →  Mobile • Web • Backend                    ║
+                 • Ai Integrated development               ║
 ║   stack     →  Flutter • Dart • Java • Spring Boot       ║
 ║   mindset   →  Build > Test > Learn > Improve            ║
 ║                                                          ║
