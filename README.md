@@ -1,59 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,50:006EFF,100:7B2FFF&height=280&section=header&text=ABHIJITH%20V%20S&fontSize=60&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&stroke=00F0FF&strokeWidth=1&desc=SOFTWARE%20ENGINEER%20%2F%2F%20MOBILE%20%2F%2F%20BACKEND&descSize=16&descAlignY=62&descColor=9FD8FF" width="100%" alt="Futuristic neon banner" />
+<img src="assets/header.svg" width="100%" alt="Abhijith V S - Software Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=760&height=60&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+LOADING+FLUTTER+%2B+DART+%2B+JAVA...;%3E+ENGINEERING+DIGITAL+EXPERIENCES;%3E+DESIGN.+DEVELOP.+DEPLOY.;%3E+SYSTEM+STATUS%3A+ALWAYS+LEARNING" alt="Animated terminal introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=00F0FF&background=050816&center=true&vCenter=true&width=820&height=60&lines=%3E+booting+developer_profile.exe...;%3E+flutter+%7C+dart+%7C+java+%7C+spring+boot;%3E+turning+ideas+into+digital+experiences;%3E+design.+develop.+deploy.;%3E+status%3A+always+learning" alt="Animated terminal text" />
 
 <br/>
 
 <a href="https://abhijith-portfolio-1.vercel.app/">
-<img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20PORTFOLIO-00F0FF?style=for-the-badge&labelColor=050A16&logo=vercel&logoColor=00F0FF" alt="Explore portfolio" />
+<img src="https://img.shields.io/badge/%E2%96%B6%20PORTFOLIO-00F0FF?style=for-the-badge&labelColor=050816&logo=vercel&logoColor=00F0FF" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/abhijithsvijayan/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-006EFF?style=for-the-badge&labelColor=050A16&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=050816&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
 </a>
 <a href="https://github.com/codewithabhijith">
-<img src="https://img.shields.io/badge/ACCESS%20GITHUB-7B2FFF?style=for-the-badge&labelColor=050A16&logo=github&logoColor=C9A8FF" alt="GitHub" />
+<img src="https://img.shields.io/badge/GITHUB-7B2FFF?style=for-the-badge&labelColor=050816&logo=github&logoColor=C9A8FF" alt="GitHub" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=codewithabhijith&style=for-the-badge&color=00F0FF&label=VISITORS&labelColor=050816" alt="Visitors" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=codewithabhijith&style=for-the-badge&color=00F0FF&label=PROFILE+SIGNALS&labelColor=050A16" alt="Profile visitor counter" />
+<img src="assets/ticker.svg" width="100%" alt="Flutter, Dart, Java, Spring Boot, MySQL, Git, GitHub, VS Code" />
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-
-## `01` // WHO AM I?
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0B1E4A,100:1A0B3D&height=60&section=header&text=01%20%2F%2F%20WHO%20AM%20I&fontSize=24&fontColor=00F0FF&animation=fadeIn&fontAlignY=55" width="100%" alt="Who am I" />
 </div>
 
 ```text
-╔═══════════════════════════════════════════════════════╗
-║  DEVELOPER_PROFILE.exe                    [─] [□] [×] ║
-╠═══════════════════════════════════════════════════════╣
-║                                                       ║
-║  > NAME       : ABHIJITH V S                          ║
-║  > ROLE       : SOFTWARE ENGINEER                     ║
-║  > COMPANY    : DUTCH CYCLING PROJECT PVT. LTD.       ║
-║  > FOCUS      : MOBILE / WEB / BACKEND                ║
-║  > STACK      : FLUTTER • DART • JAVA • SPRING BOOT   ║
-║  > MINDSET    : BUILD > TEST > LEARN > IMPROVE        ║
-║                                                       ║
-║  > STATUS     : [■■■■■■■■■■] ONLINE & BUILDING        ║
-╚═══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║  ● ● ●   abhijith@dev-machine:~$ whoami                  ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   name      →  Abhijith V S                              ║
+║   role      →  Software Engineer                         ║
+║   company   →  Dutch Cycling Project Pvt. Ltd.           ║
+║   focus     →  Mobile • Web • Backend                    ║
+║   stack     →  Flutter • Dart • Java • Spring Boot       ║
+║   mindset   →  Build > Test > Learn > Improve            ║
+║                                                          ║
+║   status    →  [██████████] ONLINE & BUILDING            ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-I'm a Software Engineer passionate about turning ideas into useful digital experiences. I build mobile apps with **Flutter & Dart** and explore backend engineering with **Java, Spring Boot, and MySQL**.
+I'm a Software Engineer who loves turning ideas into useful digital experiences. I build mobile apps with **Flutter & Dart** and explore backend engineering with **Java, Spring Boot and MySQL**.
 
-My approach blends practical problem-solving, clean interfaces, reusable architecture, and continuous learning.
-
-- ⚡ Building mobile applications and interactive user experiences
-- 🚴 Contributing to a cycling and rider passport ecosystem
-- 🎨 Designing web and mobile experiences for personal projects
-- 🧠 Expanding my knowledge of backend systems and API integration
+> ⚡ Building mobile apps and interactive user experiences
+> 🚴 Contributing to a cycling and rider passport ecosystem
+> 🎨 Designing web and mobile experiences for personal projects
+> 🧠 Going deeper into backend systems and API integration
 
 <div align="center">
 
@@ -61,33 +58,31 @@ My approach blends practical problem-solving, clean interfaces, reusable archite
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-
-## `02` // TECH ARSENAL
-
-*Tools powering my development workflow*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0B1E4A,100:1A0B3D&height=60&section=header&text=02%20%2F%2F%20TECH%20ARSENAL&fontSize=24&fontColor=00F0FF&animation=fadeIn&fontAlignY=55" width="100%" alt="Tech arsenal" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,mysql,git,github,vscode&theme=dark&perline=8" alt="Flutter Dart Java Spring Boot MySQL Git GitHub VS Code" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,mysql,git,github,vscode&theme=dark&perline=8" alt="Tech stack icons" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FLUTTER-APP%20DEVELOPMENT-071A38?style=for-the-badge&logo=flutter&logoColor=00F0FF" alt="Flutter development" />
-<img src="https://img.shields.io/badge/JAVA-BACKEND-071A38?style=for-the-badge&logo=openjdk&logoColor=00F0FF" alt="Java backend" />
-<img src="https://img.shields.io/badge/MYSQL-DATA%20LAYER-071A38?style=for-the-badge&logo=mysql&logoColor=00F0FF" alt="MySQL database" />
+<img src="https://img.shields.io/badge/FLUTTER-MOBILE-050816?style=for-the-badge&logo=flutter&logoColor=00F0FF&labelColor=0B1E4A" alt="Flutter" />
+<img src="https://img.shields.io/badge/DART-LANGUAGE-050816?style=for-the-badge&logo=dart&logoColor=00F0FF&labelColor=0B1E4A" alt="Dart" />
+<img src="https://img.shields.io/badge/JAVA-BACKEND-050816?style=for-the-badge&logo=openjdk&logoColor=00F0FF&labelColor=0B1E4A" alt="Java" />
+<img src="https://img.shields.io/badge/SPRING%20BOOT-API-050816?style=for-the-badge&logo=springboot&logoColor=00F0FF&labelColor=0B1E4A" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/MYSQL-DATABASE-050816?style=for-the-badge&logo=mysql&logoColor=00F0FF&labelColor=0B1E4A" alt="MySQL" />
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0B1E4A,100:1A0B3D&height=60&section=header&text=03%20%2F%2F%20EXPERIENCE&fontSize=24&fontColor=00F0FF&animation=fadeIn&fontAlignY=55" width="100%" alt="Experience" />
 
-## `03` // PROFESSIONAL EXPERIENCE
-
-<img src="https://img.shields.io/badge/STATUS-CURRENT%20ROLE-00F0FF?style=for-the-badge&labelColor=050A16&logo=briefcase&logoColor=00F0FF" alt="Current professional role" />
+<img src="https://img.shields.io/badge/STATUS-CURRENT%20ROLE-00FF9C?style=for-the-badge&labelColor=050816" alt="Current role" />
 
 ### DUTCH CYCLING PROJECT PVT. LTD.
 
@@ -97,28 +92,30 @@ My approach blends practical problem-solving, clean interfaces, reusable archite
 
 Working on a cycling-focused digital ecosystem that connects tour experiences with rider-oriented application features.
 
-- ▸ Developing Flutter application interfaces
-- ▸ Building tour details and booking experiences
-- ▸ Working on package selection and reusable UI components
-- ▸ Integrating application models and backend functionality
+<details open>
+<summary><b>▸ WHAT I WORK ON</b></summary>
+<br/>
+
+- Developing Flutter application interfaces
+- Building tour details and booking experiences
+- Working on package selection and reusable UI components
+- Integrating application models and backend functionality
+
+</details>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECT-TRUKOM-071A38?style=flat-square&logo=flutter&logoColor=00F0FF" alt="Trukom project" />
-<img src="https://img.shields.io/badge/DOMAIN-CYCLING%20TECH-071A38?style=flat-square&logo=googlemaps&logoColor=00F0FF" alt="Cycling technology" />
+<img src="https://img.shields.io/badge/PROJECT-TRUKOM-050816?style=flat-square&logo=flutter&logoColor=00F0FF&labelColor=0B1E4A" alt="Trukom" />
+<img src="https://img.shields.io/badge/DOMAIN-CYCLING%20TECH-050816?style=flat-square&logo=googlemaps&logoColor=00F0FF&labelColor=0B1E4A" alt="Cycling tech" />
 
 <sub>Company project · Source code and internal links are intentionally not published here.</sub>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-
-## `04` // SELECTED PROJECTS
-
-*Ideas engineered into digital experiences.*
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0B1E4A,100:1A0B3D&height=60&section=header&text=04%20%2F%2F%20PROJECTS&fontSize=24&fontColor=00F0FF&animation=fadeIn&fontAlignY=55" width="100%" alt="Projects" />
 </div>
 
 <table>
@@ -127,7 +124,7 @@ Working on a cycling-focused digital ecosystem that connects tour experiences wi
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECT_01-MOBILE_%2B_WEB-071A38?style=for-the-badge&logo=flutter&logoColor=00F0FF" alt="Project 1" />
+<img src="https://img.shields.io/badge/PROJECT_01-MOBILE_%2B_WEB-050816?style=for-the-badge&logo=flutter&logoColor=00F0FF&labelColor=0B1E4A" alt="Project 1" />
 
 ### BEOZ ELECTRONICS
 
@@ -135,20 +132,18 @@ Working on a cycling-focused digital ecosystem that connects tour experiences wi
 
 </div>
 
-Designed and built a responsive website and mobile application to showcase the Beoz Electronics brand and connect with customers.
+Responsive website and mobile application built to showcase the Beoz Electronics brand and connect with customers.
 
 - ▸ Responsive web experience
 - ▸ Mobile application interface
 - ▸ Brand and product presentation
 - ▸ Customer-focused design
 
-**Stack:** Web & Mobile Development
-
 <div align="center">
 
 <!-- Replace the URL below with the actual public Beoz repository. -->
 <a href="https://github.com/codewithabhijith/codewithabhijith">
-<img src="https://img.shields.io/badge/SOURCE%20CODE-REPOSITORY-7B2FFF?style=for-the-badge&logo=github&logoColor=white" alt="Find source code on GitHub" />
+<img src="https://img.shields.io/badge/SOURCE%20CODE-REPOSITORY-7B2FFF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" alt="Source code" />
 </a>
 
 </div>
@@ -158,7 +153,7 @@ Designed and built a responsive website and mobile application to showcase the B
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECT_02-WEB%20EXPERIENCE-071A38?style=for-the-badge&logo=vercel&logoColor=00F0FF" alt="Project 2" />
+<img src="https://img.shields.io/badge/PROJECT_02-WEB-050816?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=0B1E4A" alt="Project 2" />
 
 ### DEVELOPER PORTFOLIO
 
@@ -166,19 +161,17 @@ Designed and built a responsive website and mobile application to showcase the B
 
 </div>
 
-My personal portfolio website, designed to showcase my developer identity, projects, and professional presence.
+My personal portfolio, designed to showcase my developer identity, projects and professional presence.
 
 - ▸ Personal brand presentation
 - ▸ Responsive portfolio experience
 - ▸ Project and profile links
 - ▸ Hosted on Vercel
 
-**Stack:** Web Development
-
 <div align="center">
 
 <a href="https://abhijith-portfolio-1.vercel.app/">
-<img src="https://img.shields.io/badge/LAUNCH%20LIVE%20DEMO-00F0FF?style=for-the-badge&logo=vercel&logoColor=050A16" alt="Launch portfolio live demo" />
+<img src="https://img.shields.io/badge/LAUNCH%20LIVE%20DEMO-00F0FF?style=for-the-badge&logo=vercel&logoColor=050816&labelColor=050816" alt="Live demo" />
 </a>
 
 </div>
@@ -187,52 +180,36 @@ My personal portfolio website, designed to showcase my developer identity, proje
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-
-## `05` // GITHUB TELEMETRY
-
-*Live profile statistics · Retrieved by external services*
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codewithabhijith&show_icons=true&hide_border=true&bg_color=050816&title_color=00F0FF&icon_color=7B2FFF&text_color=C9D1D9&ring_color=00F0FF" width="49%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhijith&layout=compact&hide_border=true&bg_color=050816&title_color=00F0FF&text_color=C9D1D9" width="41%" alt="Most used languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=codewithabhijith&hide_border=true&background=050816&ring=00F0FF&fire=7B2FFF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="90%" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=codewithabhijith&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub achievements and trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-## `06` // CONTRIBUTION MATRIX
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithabhijith&bg_color=050816&color=00F0FF&line=7B2FFF&point=00F0FF&area=true&area_color=0B2D5C&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0B1E4A,100:1A0B3D&height=60&section=header&text=05%20%2F%2F%20GITHUB%20TELEMETRY&fontSize=24&fontColor=00F0FF&animation=fadeIn&fontAlignY=55" width="100%" alt="GitHub telemetry" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithabhijith&theme=radical" alt="Profile details" />
+<img src="https://github-readme-stats.vercel.app/api?username=codewithabhijith&show_icons=true&hide_border=true&bg_color=050816&title_color=00F0FF&icon_color=7B2FFF&text_color=C9D1D9&ring_color=00F0FF" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhijith&layout=compact&hide_border=true&bg_color=050816&title_color=00F0FF&text_color=C9D1D9" width="41%" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=codewithabhijith&hide_border=true&background=050816&ring=00F0FF&fire=7B2FFF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="90%" alt="Contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithabhijith&bg_color=050816&color=00F0FF&line=7B2FFF&point=00F0FF&area=true&area_color=0B2D5C&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" width="100%" alt="Activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=codewithabhijith&theme=radical&no-frame=true&margin-w=8&column=4" width="100%" alt="Trophies" />
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0B1E4A,100:1A0B3D&height=60&section=header&text=06%20%2F%2F%20CONNECT&fontSize=24&fontColor=00F0FF&animation=fadeIn&fontAlignY=55" width="100%" alt="Connect" />
 
-## `07` // ESTABLISH CONNECTION
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=600&height=35&lines=OPEN+TO+LEARNING+AND+COLLABORATION;LET'S+BUILD+SOMETHING+MEANINGFUL" alt="Animated collaboration message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=900&color=00F0FF&background=050816&center=true&vCenter=true&width=620&height=40&lines=open+to+learning+and+collaboration;let's+build+something+meaningful" alt="Collaboration message" />
 
 <br/>
 
@@ -243,12 +220,12 @@ My personal portfolio website, designed to showcase my developer identity, proje
 <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" />
 </a>
 <a href="https://abhijith-portfolio-1.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-071A38?style=for-the-badge&logo=vercel&logoColor=00F0FF" alt="Portfolio" />
+<img src="https://img.shields.io/badge/PORTFOLIO-050816?style=for-the-badge&logo=vercel&logoColor=00F0FF" alt="Portfolio" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:006EFF,100:00F0FF&height=130&section=footer" width="100%" alt="Neon gradient footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:006EFF,100:00F0FF&height=130&section=footer" width="100%" alt="Footer" />
 
 <sub>DESIGNED WITH PURPOSE · BUILT WITH CURIOSITY · POWERED BY CODE</sub>
 
