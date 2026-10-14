@@ -1,234 +1,250 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,45:0B1B3A,100:0875FF&height=210&section=header&text=ABHIJITH%20V%20S&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FLUTTER%20%7C%20BACKEND&descAlignY=63&descSize=14" width="100%" alt="Abhijith V S developer portfolio banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040A,45:071A38,100:006EFF&height=240&section=header&text=ABHIJITH%20V%20S&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%2F%2F%20MOBILE%20%2F%2F%20BACKEND&descSize=15&descAlignY=60&descColor=58A6FF" width="100%" alt="Futuristic blue developer banner" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Mobile+%26+Web+Experiences;Flutter+%7C+Dart+%7C+Java+%7C+Spring+Boot;Turning+Ideas+Into+Practical+Solutions;Always+Learning.+Always+Building." alt="Animated developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=INITIALIZING+DEVELOPER+PROFILE...;FLUTTER+%2B+DART+%2B+JAVA;ENGINEERING+DIGITAL+EXPERIENCES;DESIGN.+DEVELOP.+DEPLOY.;SYSTEM+STATUS%3A+ALWAYS+LEARNING." alt="Animated futuristic developer introduction" />
+
+<br/>
+
+<a href="https://abhijith-portfolio-1.vercel.app/">
+<img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20PORTFOLIO-006EFF?style=for-the-badge&labelColor=050A16&logo=vercel&logoColor=58A6FF" alt="Explore portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/abhijithsvijayan/">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-006EFF?style=for-the-badge&labelColor=050A16&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+</a>
+<a href="https://github.com/codewithbhijith">
+<img src="https://img.shields.io/badge/ACCESS%20GITHUB-006EFF?style=for-the-badge&labelColor=050A16&logo=github&logoColor=58A6FF" alt="GitHub" />
 </a>
 
-<p>
-  <a href="https://abhijith-portfolio-1.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Visit portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhijithsvijayan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn profile" />
-  </a>
-  <a href="https://github.com/codewithbhijith">
-    <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub profile" />
-  </a>
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=codewithbhijith&style=for-the-badge&color=006EFF&label=PROFILE+SIGNALS" alt="Profile visitor counter" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm **Abhijith V S**, a Software Engineer passionate about building practical digital products, intuitive interfaces, and reliable applications.
-
-Currently working at **Dutch Cycling Project Pvt. Ltd.**, where I contribute to the Trukom cycling and rider passport ecosystem.
-
-My interests span mobile application development, web experiences, backend systems, and creating technology that solves real-world problems.
-
-- 💼 Software Engineer at Dutch Cycling Project Pvt. Ltd.
-- 📱 Building mobile experiences with Flutter and Dart.
-- ⚙️ Exploring backend development with Java and Spring Boot.
-- 🗄️ Working with MySQL and application data.
-- 🎨 Interested in clean UI, responsive design, and maintainable architecture.
-- 🚀 Constantly learning, experimenting, and improving through real-world projects.
-
-> _Good software is more than code. It's a thoughtful solution to a real problem._
-
----
-
-## 🛠️ Technology Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,mysql,git,github,vscode&theme=dark" alt="Flutter, Dart, Java, Spring Boot, MySQL, Git, GitHub and VS Code" />
+## `01` // WHO AM I?
 
 </div>
 
-### Languages, Frameworks & Tools
+```text
+┌─────────────────────────────────────────────────────┐
+│  DEVELOPER_PROFILE.exe                         [×]  │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  NAME       : ABHIJITH V S                          │
+│  ROLE       : SOFTWARE ENGINEER                     │
+│  COMPANY    : DUTCH CYCLING PROJECT PVT. LTD.       │
+│  FOCUS      : MOBILE / WEB / BACKEND                │
+│  MINDSET    : BUILD > TEST > LEARN > IMPROVE        │
+│                                                     │
+│  CURRENT_STATUS: ONLINE & BUILDING                  │
+└─────────────────────────────────────────────────────┘
+```
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-</p>
+I'm a Software Engineer passionate about transforming ideas into useful digital experiences. I work with Flutter and Dart for mobile development and explore backend engineering with Java, Spring Boot, and MySQL.
 
----
+My approach combines practical problem-solving, clean interfaces, reusable architecture, and continuous learning.
 
-## 💼 Professional Experience
-
-### Software Engineer — Dutch Cycling Project Pvt. Ltd.
-
-**Project: Trukom — Cycling & Rider Passport Ecosystem**
-
-Contributing to a cycling-focused digital ecosystem designed around tours, riders, and cycling experiences.
-
-- 📱 Developing Flutter application experiences.
-- 🚴 Working on cycling tour details and rider-focused features.
-- 🗺️ Building tour booking and package selection experiences.
-- 🧩 Working with reusable UI components and structured application models.
-- 🔌 Integrating application data and backend functionality.
-
-_Trukom is a company project. Its source code and internal implementation are not linked publicly here._
-
----
-
-## 🚀 Featured Projects
+- `01` — Building mobile applications and interactive user experiences.
+- `02` — Contributing to a cycling and rider passport ecosystem.
+- `03` — Designing web and mobile experiences for personal projects.
+- `04` — Expanding my knowledge of backend systems and API integration.
 
 <div align="center">
 
-### 01 · Trukom
-
-**Cycling & Rider Passport Ecosystem**
-
-</div>
-
-A professional company project focused on cycling tours and rider experiences.
-
-**Highlights**
-
-- Tour discovery and detailed tour information.
-- Rider-focused application experiences.
-- Tour booking and package selection workflows.
-- Interactive, reusable Flutter UI components.
-
-`Flutter` `Dart` `Mobile Development`
-
-<p>
-  <img src="https://img.shields.io/badge/Category-Professional%20Experience-0D1117?style=flat-square&logo=briefcase&logoColor=58A6FF" alt="Professional experience" />
-</p>
-
----
-
-<div align="center">
-
-### 02 · Beoz Electronics
-
-**Web & Mobile Brand Experience**
-
-</div>
-
-Designed and built a responsive website and mobile application to showcase the Beoz Electronics brand and help connect the business with its customers.
-
-**Highlights**
-
-- Responsive website experience.
-- Mobile application experience.
-- Brand presentation and product showcasing.
-- Customer-focused digital interfaces.
-
-`Web Development` `Mobile Development` `UI/UX`
-
-<p>
-  <!-- Replace YOUR_BEOZ_REPOSITORY with the actual public repository name. -->
-  <a href="https://github.com/codewithabhijith/YOUR_BEOZ_REPOSITORY">
-    <img src="https://img.shields.io/badge/Source%20Code-View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Beoz Electronics source code placeholder" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### 03 · Personal Portfolio
-
-**My Developer Portfolio Website**
-
-</div>
-
-A personal website showcasing my work, developer profile, and professional presence.
-
-**Highlights**
-
-- Personal brand and introduction.
-- Portfolio and project presentation.
-- Responsive web experience.
-- Direct access to my professional profiles.
-
-<p>
-  <a href="https://abhijith-portfolio-1.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Portfolio-0875FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit live portfolio website" />
-  </a>
-  <!-- Add the GitHub repository URL when available. -->
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithabhijith&show_icons=true&hide_border=true&bg_color=050816&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" alt="GitHub profile statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhijith&layout=compact&hide_border=true&bg_color=050816&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
+`CREATIVITY × ENGINEERING × CONSISTENCY`
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=codewithabhijith&hide_border=true&background=050816&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="90%" alt="GitHub contribution streak tracker" />
+## `02` // TECH ARSENAL
+
+_Tools powering my development workflow_
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,mysql,git,github,vscode&theme=dark&perline=8" alt="Flutter Dart Java Spring Boot MySQL Git GitHub VS Code" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FLUTTER-APP%20DEVELOPMENT-071A38?style=for-the-badge&logo=flutter&logoColor=58A6FF" alt="Flutter development" />
+<img src="https://img.shields.io/badge/JAVA-BACKEND-071A38?style=for-the-badge&logo=openjdk&logoColor=58A6FF" alt="Java backend" />
+<img src="https://img.shields.io/badge/MYSQL-DATA%20LAYER-071A38?style=for-the-badge&logo=mysql&logoColor=58A6FF" alt="MySQL database" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+<div align="center">
+
+## `03` // PROFESSIONAL EXPERIENCE
+
+<img src="https://img.shields.io/badge/STATUS-CURRENT%20ROLE-006EFF?style=for-the-badge&logo=briefcase&logoColor=white" alt="Current professional role" />
+
+### DUTCH CYCLING PROJECT PVT. LTD.
+
+**Software Engineer · Trukom Ecosystem**
+
+</div>
+
+Working on a cycling-focused digital ecosystem that connects tour experiences with rider-oriented application features.
+
+- Developing Flutter application interfaces.
+- Building tour details and booking experiences.
+- Working on package selection and reusable UI components.
+- Integrating application models and backend functionality.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=codewithabhijith&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub trophy and achievement cards" />
+<img src="https://img.shields.io/badge/PROJECT-TRUKOM-071A38?style=flat-square&logo=flutter&logoColor=58A6FF" alt="Trukom project" />
+<img src="https://img.shields.io/badge/DOMAIN-CYCLING%20TECH-071A38?style=flat-square&logo=googlemaps&logoColor=58A6FF" alt="Cycling technology" />
+
+<sub>Company project · Source code and internal links are intentionally not published here.</sub>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<div align="center">
+
+## `04` // SELECTED PROJECTS
+
+_Ideas engineered into digital experiences._
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithabhijith&bg_color=050816&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://img.shields.io/badge/PROJECT_01-MOBILE_%2B_WEB-071A38?style=for-the-badge&logo=flutter&logoColor=58A6FF" alt="Project 1" />
+
+### BEOZ ELECTRONICS
+
+**Brand · Web · Mobile**
+
+</div>
+
+Designed and built a responsive website and mobile application to showcase the Beoz Electronics brand and connect with customers.
+
+- Responsive web experience
+- Mobile application interface
+- Brand and product presentation
+- Customer-focused design
+
+**Stack:** Web & Mobile Development
+
+<div align="center">
+
+<!-- Replace the URL below with the actual public Beoz repository. -->
+<a href="https://github.com/codewithbhijith">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-REPOSITORY-006EFF?style=for-the-badge&logo=github&logoColor=white" alt="Find source code on GitHub" />
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_02-WEB%20EXPERIENCE-071A38?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Project 2" />
+
+### DEVELOPER PORTFOLIO
+
+**Personal Brand · Web**
+
+</div>
+
+My personal portfolio website, designed to showcase my developer identity, projects, and professional presence.
+
+- Personal brand presentation
+- Responsive portfolio experience
+- Project and profile links
+- Hosted on Vercel
+
+**Stack:** Web Development
+
+<div align="center">
+
+<a href="https://abhijith-portfolio-1.vercel.app/">
+<img src="https://img.shields.io/badge/LAUNCH%20LIVE%20DEMO-006EFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch portfolio live demo" />
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `05` // GITHUB TELEMETRY
+
+_Live profile statistics · Retrieved by external services_
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=codewithbhijith&show_icons=true&hide_border=true&bg_color=050816&title_color=58A6FF&icon_color=00C8FF&text_color=C9D1D9&ring_color=006EFF" width="49%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbhijith&layout=compact&hide_border=true&bg_color=050816&title_color=58A6FF&text_color=C9D1D9" width="41%" alt="Most used languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=codewithbhijith&hide_border=true&background=050816&ring=006EFF&fire=00C8FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="90%" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=codewithbhijith&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub achievements and trophies" />
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+<div align="center">
+
+## `06` // CONTRIBUTION MATRIX
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithbhijith&bg_color=050816&color=8BBDFF&line=006EFF&point=00C8FF&area=true&area_color=0B2D5C&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
 
 <div align="center">
+
+## `07` // ESTABLISH CONNECTION
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&height=35&lines=OPEN+TO+LEARNING+AND+COLLABORATION;LET'S+BUILD+SOMETHING+MEANINGFUL" alt="Animated collaboration message" />
+
+<br/>
 
 <a href="https://www.linkedin.com/in/abhijithsvijayan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/codewithabhijith">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" />
+<a href="https://github.com/codewithbhijith">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" />
 </a>
 <a href="https://abhijith-portfolio-1.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0875FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
+<img src="https://img.shields.io/badge/PORTFOLIO-071A38?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio" />
 </a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006EFF,50:071A38,100:02040A&height=130&section=footer" width="100%" alt="Animated blue futuristic footer" />
 
-<div align="center">
-
-### Thanks for visiting my profile 💙
-
-_Build with purpose. Learn with curiosity. Improve with every commit._
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0875FF,100:050816&height=110&section=footer" width="100%" alt="Electric blue portfolio footer" />
+<sub>DESIGNED WITH PURPOSE · BUILT WITH CURIOSITY · POWERED BY CODE</sub>
 
 </div>
